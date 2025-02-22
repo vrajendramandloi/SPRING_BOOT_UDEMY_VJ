@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vicky.uni.example.startProject</groupId>
-	<artifactId>SP2SpringBootSocialMediaApp</artifactId>
+	<artifactId>SP2SpringBootDBPracticeLeetCode</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SP2SpringBootSocialMediaApp</name>
+	<name>SP2SpringBootDBPracticeLeetCode</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -79,9 +79,9 @@
 			<version>2.10.1</version>
 		</dependency>
 		<dependency>
-			<groupId>org.apache.httpcomponents</groupId>
-			<artifactId>httpclient</artifactId>
-			<version>4.5.3</version>
+			<groupId>org.apache.httpcomponents.client5</groupId>
+			<artifactId>httpclient5</artifactId>
+			<version>5.2.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.json</groupId>
